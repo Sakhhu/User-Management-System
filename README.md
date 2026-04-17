@@ -1,4 +1,7 @@
-# User Management System
+## Live Demo
+
+Frontend: https://user-management-system-frontend-eta.vercel.app  
+Backend: https://user-management-system-2-bxzr.onrender.com# User Management System
 
 A full-stack MERN web application with secure user authentication, role-based access control (RBAC), and comprehensive audit logging. Built for Purple Merit Technologies assessment.
 
